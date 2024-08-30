@@ -6,6 +6,9 @@ main
 allocate
 process.o
 
+.DS_Store
+.clang-format
+
 main.o
 memory.o
 processqueue.o
